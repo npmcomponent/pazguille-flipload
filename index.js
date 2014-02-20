@@ -1,5 +1,5 @@
 // Module dependencies.
-var spin = require('spin'),
+var spin = require('component-spin'),
     win = window,
     doc = window.document,
     defaults = {
